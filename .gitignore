@@ -1,0 +1,5 @@
+venv/
+phishing_emails.csv
+*.keras
+tokenizer.pkl
+__pycache__/
