@@ -3,3 +3,8 @@ phishing_emails.csv
 *.keras
 tokenizer.pkl
 __pycache__/
+inbox-triage-lab-v2/venv/
+inbox-triage-lab-v2/lab.db
+inbox-triage-lab-v2/*.keras
+inbox-triage-lab-v2/tokenizer.pkl
+inbox-triage-lab-v2/__pycache__/
